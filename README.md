@@ -1,7 +1,5 @@
 # Simon Game Project
 
-![Simon Game]
-
 Welcome to the Simon Game project repository! This is a front-end development project inspired by the classic Simon Game. The game is designed to test and enhance your memory and concentration skills by challenging you to remember and repeat a sequence of lights and sounds.
 
 ## Table of Contents
@@ -20,7 +18,7 @@ This project is part of my journey to learn front-end development and interactiv
 
 ## Demo
 
-Check out the live demo of the Simon Game [here](link_to_demo).
+Check out the live demo of the Simon Game [here](https://heithorurquiza.github.io/Simon-game/).
 
 ## Features
 
@@ -44,8 +42,8 @@ Check out the live demo of the Simon Game [here](link_to_demo).
 
 ## Technologies Used
 
-HTML
-CSS
+HTML<br>
+CSS<br>
 JavaScript
 
 ## Contributing
